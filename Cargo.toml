@@ -1,0 +1,6 @@
+[package]
+name = "gbot"
+version = "0.1.0"
+authors = ["tor4z <vwenjie@hotmail.com>"]
+
+[dependencies]
